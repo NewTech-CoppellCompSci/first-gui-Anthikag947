@@ -1,0 +1,18 @@
+3520 4 4 775000 
+2324 Dobbins Ln Irving TX 75063 
+7623 true src/lab/house_1.png
+23688 8 6 43000000
+6915 Baltimore Dr University Park TX 75205
+56628 false src/lab/house_2.png
+18769 10 7 18900000
+9727 Audubon Pl Dallas TX 75220
+56628 true src/lab/house_3.png
+14407 8 6 15750000 
+4201 Armstrong Pkwy Highland Park TX 75205
+65340 true src/lab/house_4.png
+8866 9 5 11950000 
+3644 Beverly Dr Highland Park TX 75205
+26571 true src/lab/house_5.png
+9337 4 4 10000000 
+5810 Park Ln Dallas TX 75225 
+80150.4 true src/lab/house_6.png
